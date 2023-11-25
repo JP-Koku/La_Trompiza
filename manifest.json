@@ -1,0 +1,17 @@
+{
+    "name": "La Trompiza",
+    "short_name": "Trompiza",
+    "theme_color": "#a02a2a",
+    "background_color": "#313235",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./images/logos/icon.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        }
+    ]
+}
