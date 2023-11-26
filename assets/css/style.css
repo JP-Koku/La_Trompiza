@@ -10,8 +10,7 @@
 }
 
 body{
-    background-color: #3b3b3b;
-    background: linear-gradient(90deg, rgb(49, 48, 48) 0%, rgb(41, 41, 68) 100%);
+    background: linear-gradient(90deg, rgb(49, 48, 48), rgb(41, 41, 68));
 }
 
 /* navegacion */
