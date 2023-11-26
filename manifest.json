@@ -9,9 +9,9 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./assets/images/logos/icon.png",
+            "src": "./assets/images/logos/pwa_logo.png",
             "type": "image/png",
-            "sizes": "48x48"
+            "sizes": "512x512"
         }
     ]
 }
