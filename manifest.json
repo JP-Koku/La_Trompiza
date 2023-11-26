@@ -9,7 +9,7 @@
     "start_url": "./",
     "icons": [
         {
-            "src": "./images/logos/icon.png",
+            "src": ".assets/images/logos/icon.png",
             "type": "image/png",
             "sizes": "48x48"
         }
